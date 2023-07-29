@@ -1,9 +1,9 @@
 import Image from 'next/image'
 
-export default function Home() {
+export default function Wow() {
   return (
     <div>
-      <h1>하이요</h1>
+      <h1>wow페이지임</h1>
     </div>
   )
 }
